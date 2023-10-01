@@ -27,38 +27,44 @@
 ## Задание 1
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook
 Ход работы:
-- Написать код, который будет выдавать Hello Word на Python
+-Устанавливаю программное обеспечение Anaconda Navigator.
+-Запускаю инструмент Jupyter Notebook, нажав кнопку Launch.
+-В открывшимся окне Браузера создаю папка с именем "UrFU1-Anaconda".
+-В папке создаю файл с именем "HelloWorld.ipynb".
+-В файле прописываю команду "print" и соответсвно "Hello World!.
+-Нажимаю кнопку "Run".
 
 print("Hello, World!")
-Hello World
-
 
 
 ## Задание 2
 ###  Написать программу Hello World на C# с запуском на Unity.
 
- - Написать код, который будет выдавать Hello Word на C#
+-Захожу на официальный сайт Unity.com, регистрируюсь и устанавливаю движок Unity.
+-Создаю новый проект.
+-В открывшимся окне создаю новый скрипт на c#.
+-Открываю файл в Visual Studio.
+-В поле вода void Start () пишу "Hello World!" и сохраняю проект.
+-Запускаю скрипт в проекте Unity и получаю в Console ожидаемый результат.
 
-using System;
 
-namespace ConsoleApp1
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
+public class HelloWorld : MonoBehaviour
 {
-   
-    class Program
-   
+    // Start is called before the first frame update
+    void Start()
     {
-       
-        static void Main(string[] args)
-        
-        {
-          
-            Console.WriteLine("Hello World!");
-        
-        }
+        Debug.Log("Hello World!");
     }
-    
 
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
 }
 
 ## Задание 3
