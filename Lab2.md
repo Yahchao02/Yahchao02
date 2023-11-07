@@ -48,7 +48,7 @@
 - Для описания ресурса я выбрала первородную смолу.
 - Описание: данный ресурс появляется у игрока каждый день; в течение 8 минут восстанавливается в количестве одной единицы; нужен для получения наград после прохождения босов или испытаний; можно восстановить за счет слабой смолы (отдельный игровой ресурс).
 - Ниже предсавлена примерная экономическая модель данного ресурса:
-![image](https://disk.yandex.ru/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2F274599027-785ff3fb-f7e7-4b1b-ba86-d9c9b8d6f0c1.png)
+![image]([https://disk.yandex.ru/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2F274599027-785ff3fb-f7e7-4b1b-ba86-d9c9b8d6f0c1.png](https://s164vlx.storage.yandex.net/rdisk/00b8987a0bc574d96bc04407cea334d08de00ed58e08adbef012267880f8a0b3/654a073e/FIqDbdOQ0MnuhSJxfevetyW6zI-eZDat9pVu9Vo5GzOywZDkIDHzk2KvA3_-HnW_SJetQeYKBaPGWV3aPX1bjw==?uid=547561712&filename=274599027-785ff3fb-f7e7-4b1b-ba86-d9c9b8d6f0c1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=547561712&fsize=32329&hid=0abe44ca8463906b276b23097fb71ad9&media_type=image&tknv=v2&etag=936febc2b23c235fc4e0fc25ea0a1300&rtoken=ZGxIoaF9huZT&force_default=yes&ycrid=na-03eab3aee19f36b8185a2065605f0e8a-downloader19f&ts=6098cd501cb80&s=8b9f3da3dde306a25331563676cd5ef512d1fd296a0f894763028dcf8527afce&pb=U2FsdGVkX18pNKSEq5xA4gRscJm3DAnCVzZ43ZF5ZVTEuigpXsh0zEvbpHAM7tVExKY_OExgfNbIfTlzooaLv27s6sxXW5tqJX682f0RaDw))
 
 ## Задание 2
 ### С помощью скрипта на языке Python заполнить google-таблицу данными, описывающими выбранную игровую переменную в выбранной игре. Средствами google-sheets визуализируйте данные в google-таблице для наглядного представления выбранной игровой величины.
