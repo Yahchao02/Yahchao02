@@ -110,7 +110,7 @@ fill_sheet(sh, [data_speed, data_distance, data_chance, data_cooldown])
 
 - Вот так выглядят графики.
 
-  ![Изображение](Graphs.png)
+  ![Изображение]([Graphs.png](https://github.com/Yahchao02/lb3/blob/main/Graphs.png))
 
 
 ## Выводы
